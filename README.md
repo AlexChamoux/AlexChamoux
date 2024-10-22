@@ -5,8 +5,6 @@ I'm a passionate developer currently pursuing a Bachelor's degree in Application
 - 🌱 I'm currently learning and improving my skills in various technologies including Vue.js, JavaScript, PHP, OOP, unit testing, Agile methodology, system and network basics, security, UX/UI with Figma, databases, Git, and SPA
 - 👯 I'm looking to collaborate on back-end projects, as that's where my main interest lies
 - 💬 Ask me about PHP (Laravel and Symfony) and Java - these are the areas where I feel most confident
-- 📫 How to reach me: [Your preferred contact method]
-- ⚡ Fun fact: [Add a fun fact about yourself if you'd like]
 
 ### Skills
 
