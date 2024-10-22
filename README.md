@@ -6,11 +6,22 @@ I'm a passionate developer currently pursuing a Bachelor's degree in Application
 - 👯 I'm looking to collaborate on back-end projects, as that's where my main interest lies
 - 💬 Ask me about PHP (Laravel and Symfony) and Java - these are the areas where I feel most confident
 
-### Skills
+### Current Skills
 
 - Languages: Java, PHP, JavaScript
 - Frameworks: Laravel, Symfony, Vue.js
-- Other: Git, Agile, Unit Testing, UX/UI (Figma), Databases, SPA
+- Other: Git, Agile methodology, Unit Testing, UX/UI (Figma), Databases, SPA
+- Concepts: OOP, System and Network basics, Security
+
+### Skills I'm Developing
+
+- Advanced Development & Algorithms
+- Java SpringBoot & Microservices
+- CI/CD
+- Linux
+- Architecture & Design
+- Advanced Database Management
+- Advanced Security Concepts
 
 I'm always eager to learn and take on new challenges in the world of software development!
 
