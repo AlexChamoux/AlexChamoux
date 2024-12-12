@@ -8,6 +8,7 @@ I'm a passionate developer currently pursuing a Bachelor's degree in Application
 
 ### Current Skills
 
+- ![Java](https://github.com/AlexChamoux/AlexChamoux/tree/main/Logos/java.png) Java  
 ![Java](./../../tree/main/Logos/java.png) 
 - Languages: Java, PHP, JavaScript
 - Frameworks: Laravel, Symfony, Vue.js
