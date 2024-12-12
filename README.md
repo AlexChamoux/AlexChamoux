@@ -10,7 +10,7 @@ I'm a passionate developer currently pursuing a Bachelor's degree in Application
 
 -  Java  
 - Languages: <img src="https://github.com/AlexChamoux/AlexChamoux/blob/main/Logos/java.png" alt="Java Logo" width="30" height="30">Java, <img src="https://github.com/AlexChamoux/AlexChamoux/blob/main/Logos/php.png" alt="php Logo" width="30" height="30">PHP, <img src="https://github.com/AlexChamoux/AlexChamoux/blob/main/Logos/script-java.png" alt="JS Logo" width="30" height="30">JavaScript
-- Frameworks: <img src="https://github.com/AlexChamoux/AlexChamoux/blob/main/Logos/icons8-laravel-64.png" alt="laravel Logo" width="30" height="30">Laravel, <img src="https://github.com/AlexChamoux/AlexChamoux/blob/main/Logos/symfony_black_02.png" alt="symfony Logo" width="70" height="30">, Vue.js
+- Frameworks: <img src="https://github.com/AlexChamoux/AlexChamoux/blob/main/Logos/icons8-laravel-64.png" alt="laravel Logo" width="30" height="30">Laravel, <img src="https://github.com/AlexChamoux/AlexChamoux/blob/main/Logos/symfony_black_02.png" alt="symfony Logo" width="100" height="30">, Vue.js
 - Other: Git, Agile methodology, Unit Testing, UX/UI (Figma), Databases, SPA
 - Concepts: OOP, System and Network basics, Security
 - Advanced Development & Algorithms
