@@ -8,6 +8,7 @@ I'm a passionate developer currently pursuing a Bachelor's degree in Application
 
 ### Current Skills
 
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 - Languages: Java, PHP, JavaScript
 - Frameworks: Laravel, Symfony, Vue.js
 - Other: Git, Agile methodology, Unit Testing, UX/UI (Figma), Databases, SPA
