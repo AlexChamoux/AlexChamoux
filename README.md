@@ -8,8 +8,7 @@ I'm a passionate developer currently pursuing a Bachelor's degree in Application
 
 ### Current Skills
 
-- ![Java](https://github.com/AlexChamoux/AlexChamoux/blob/main/Logos/java.png) 
-![Java](./../../tree/main/Logos/java.png) 
+- <img src="https://github.com/AlexChamoux/AlexChamoux/blob/main/Logos/java.png" alt="Java Logo" width="50" height="50"> Java  
 - Languages: Java, PHP, JavaScript
 - Frameworks: Laravel, Symfony, Vue.js
 - Other: Git, Agile methodology, Unit Testing, UX/UI (Figma), Databases, SPA
