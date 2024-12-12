@@ -12,13 +12,13 @@ I'm a passionate developer currently pursuing a Bachelor's degree in Application
 - Frameworks: Laravel, Symfony, Vue.js
 - Other: Git, Agile methodology, Unit Testing, UX/UI (Figma), Databases, SPA
 - Concepts: OOP, System and Network basics, Security
+- Advanced Development & Algorithms
+- Linux
 
 ### Skills I'm Developing
 
-- Advanced Development & Algorithms
 - Java SpringBoot & Microservices
 - CI/CD
-- Linux
 - Architecture & Design
 - Advanced Database Management
 - Advanced Security Concepts
