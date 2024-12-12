@@ -8,6 +8,7 @@ I'm a passionate developer currently pursuing a Bachelor's degree in Application
 
 ### Current Skills
 
+![Java](./logos/java.png) Java  
 - Languages: Java, PHP, JavaScript
 - Frameworks: Laravel, Symfony, Vue.js
 - Other: Git, Agile methodology, Unit Testing, UX/UI (Figma), Databases, SPA
