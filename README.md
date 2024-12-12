@@ -8,10 +8,9 @@ I'm a passionate developer currently pursuing a Bachelor's degree in Application
 
 ### Current Skills
 
--  Java  
 - Languages: <img src="https://github.com/AlexChamoux/AlexChamoux/blob/main/Logos/java.png" alt="Java Logo" width="30" height="30">Java, <img src="https://github.com/AlexChamoux/AlexChamoux/blob/main/Logos/php.png" alt="php Logo" width="30" height="30">PHP, <img src="https://github.com/AlexChamoux/AlexChamoux/blob/main/Logos/script-java.png" alt="JS Logo" width="30" height="30">JavaScript
 - Frameworks: <img src="https://github.com/AlexChamoux/AlexChamoux/blob/main/Logos/icons8-laravel-64.png" alt="laravel Logo" width="30" height="30">Laravel, <img src="https://github.com/AlexChamoux/AlexChamoux/blob/main/Logos/symfony_black_02.png" alt="symfony Logo" width="100" height="30">, <img src="https://github.com/AlexChamoux/AlexChamoux/blob/main/Logos/icons8-vue-js-48.png" alt="view Logo" width="30" height="30">Vue.js
-- Other: Git, Agile methodology, Unit Testing, UX/UI (Figma), Databases, SPA
+- Other: <img src="https://github.com/AlexChamoux/AlexChamoux/blob/main/Logos/incons8-git-48.png" alt="git Logo" width="30" height="30">Git, <img src="https://github.com/AlexChamoux/AlexChamoux/blob/main/Logos/incons8-github-50.png" alt="github Logo" width="30" height="30">GitHub, <img src="https://github.com/AlexChamoux/AlexChamoux/blob/main/Logos/incons8-agile-64.png" alt="agile Logo" width="30" height="30">Agile methodology, <img src="https://github.com/AlexChamoux/AlexChamoux/blob/main/Logos/unit-testing.png" alt="test Logo" width="30" height="30">Unit Testing, <img src="https://github.com/AlexChamoux/AlexChamoux/blob/main/Logos/ui.png" alt="ux-ui Logo" width="30" height="30">UX/UI (<img src="https://github.com/AlexChamoux/AlexChamoux/blob/main/Logos/figma.png" alt="figma Logo" width="30" height="30">Figma), <img src="https://github.com/AlexChamoux/AlexChamoux/blob/main/Logos/database.png" alt="database Logo" width="30" height="30">Databases, SPA
 - Concepts: OOP, System and Network basics, Security
 - Advanced Development & Algorithms
 - Linux
